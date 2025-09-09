@@ -1,7 +1,7 @@
 # Bengaluru Housing Rent & Price Analysis
 
 ## Project Overview
-This fresher-level project explores rental patterns in Bengaluru using a dataset of house rents. It focuses on affordability, BHK-wise pricing, location-based rent differences, and furnishing impact. The goal is to practice core data analytics skills with Python, SQL, and Excel.
+This project explores rental patterns in Bengaluru using a dataset of house rents. It focuses on affordability, BHK-wise pricing, location-based rent differences, and furnishing impact. The goal is to practice core data analytics skills with Python, SQL, and Excel.
 
 ## Project Structure
 - data/BangaloreHouseRentDtls_clean.csv  - cleaned dataset
